@@ -7,6 +7,7 @@
         }
     ],
     "type": "composer-plugin",
+    "minimum-stability": "dev",
     "require": {
         "composer-plugin-api": "^2.0"
     },
