@@ -9,6 +9,7 @@
     "type": "composer-plugin",
     "minimum-stability": "dev",
     "require": {
+        "php": "^7.1",
         "composer-plugin-api": "^2.0"
     },
     "require-dev": {
